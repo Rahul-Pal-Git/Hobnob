@@ -51,6 +51,22 @@ button:hover {
 opacity: 0.8;
 }
 
+
+.row input{
+ text-align: center;
+width: 256px;
+height: 56px;
+padding-left: 10px;
+/* padding: 48px; */
+padding-right: 10px;
+padding-top: 30px;
+padding-bottom: 48px;
+margin: 25px;
+color: black;
+background-color : #d9e7ee;
+}
+
+
 #prevBtn {
 background-color: #179288;
 }
